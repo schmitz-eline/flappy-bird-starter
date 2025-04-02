@@ -52,4 +52,6 @@ export const settings = {
             dh: 400
         }
     },
+    canvasID: 'game',
+    spriteSRC: 'src/img/sprite.png',
 }
